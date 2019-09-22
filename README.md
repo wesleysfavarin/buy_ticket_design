@@ -11,3 +11,4 @@ Described in following post:
 
 ## The implementation:
 ![Implementation](https://user-images.githubusercontent.com/16286046/58473033-e8ce3500-8147-11e9-831b-78f9cf86addb.gif)
+000
